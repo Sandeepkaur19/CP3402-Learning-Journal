@@ -2,7 +2,9 @@
 4
 # Learning Activities
 Mapping the Modern Web Design Process
+
 Version Control for Everyone
+
 Migrating WordPress with WP Migrate DB and DB pro
 # Resources/Links
 https://www.linkedin.com/learning/mapping-the-modern-web-design-process
