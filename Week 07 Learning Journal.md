@@ -2,6 +2,7 @@
 7
 # Learning Activities
 Introducing PHP
+
 PHP with MySQL Essential Training
 # Resources/Links
 https://www.linkedin.com/learning/learning-php-2
