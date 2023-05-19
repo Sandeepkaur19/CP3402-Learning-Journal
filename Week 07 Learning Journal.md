@@ -5,6 +5,7 @@ Introducing PHP
 PHP with MySQL Essential Training
 # Resources/Links
 https://www.linkedin.com/learning/learning-php-2
+
 https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics
 # Estimated Hours
 12hour 49 min
